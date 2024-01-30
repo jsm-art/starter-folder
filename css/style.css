@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@font-face {
+    font-family: copperplate;
+    src: url(../media/fonts/copperplate-cc.heavy.otf);
+
+}
+
+p{
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-family: copperplate;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-family: copperplate;
+    text-align: center;
+    color: white;
+}
+
+ul{
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
+table, th, td, tr {
+    border: 1px solid;
+    font-family: 'Great Vibes', cursive;
+    color: white;
+    font-size: larger;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body{
+    background-color: lightslategrey;
+}
